@@ -1,2 +1,2 @@
-# 0x-web-quotes
+# Quotes
 Important Quotes
